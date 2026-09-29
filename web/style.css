@@ -9,3 +9,7 @@ th{background:#e8eef5}
 figure{display:inline-block;margin:.5rem;text-align:center}
 img{max-width:100%;height:auto}
 footer{margin-top:2rem;padding-top:1rem;border-top:1px solid #ccc;font-size:.9rem;color:#555}
+.tlacitko{display:inline-block;background:#3a7d44;color:#fff;padding:.6rem 1.2rem;border:0;border-radius:4px;font-size:1rem;text-decoration:none;cursor:pointer}
+.tlacitko:hover{background:#2c6335}
+label{font-weight:bold}
+input,select,textarea{padding:.4rem;max-width:100%}
